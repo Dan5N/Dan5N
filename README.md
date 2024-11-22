@@ -1,10 +1,8 @@
 # Hi there 👋
 # here is an introdution to myself   
 but now it's empty()
-* languages
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=LMXsecound&amp;layout=compact&amp;theme=tokyonight)
-* analysis
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=LMXsecound&amp;show_icons=true&amp;theme=tokyonight)
+
+[![我的 GitHub stats](https://github-readme-stats.vercel.app/api?username=LMXsecound&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 * visitor count:  
 ![Visitor Count](https://profile-counter.glitch.me/LMXsecound/count.svg)
 <!--
