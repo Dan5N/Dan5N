@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+# here is an introdution to myself   
+but now it's empty()
 
 <!--
 **LMXsecound/LMXsecound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
