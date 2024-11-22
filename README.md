@@ -3,6 +3,8 @@
 but now it's empty()
 * status:    
 [![我的 GitHub status](https://github-readme-stats.vercel.app/api?username=LMXsecound&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+* langusges:  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMXsecound&hide_progress=true)
 * visitor count:  
 ![Visitor Count](https://profile-counter.glitch.me/LMXsecound/count.svg)
 <!--
