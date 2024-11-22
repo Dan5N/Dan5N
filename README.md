@@ -1,7 +1,8 @@
 # Hi there 👋
 # here is an introdution to myself   
 but now it's empty()
-
+* analysis
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=LMXsecound&amp;show_icons=true&amp;theme=tokyonight)
 * visitor count:  
 ![Visitor Count](https://profile-counter.glitch.me/LMXsecound/count.svg)
 <!--
