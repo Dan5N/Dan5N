@@ -4,7 +4,7 @@ but now it's empty()
 * status:    
 [![我的 GitHub status](https://github-readme-stats.vercel.app/api?username=LMXsecound&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -14,13 +14,17 @@ but now it's empty()
 
 ```text
 💬 Programming Languages: 
-Java                     24 mins             █████████████████████████   100.00 % 
+Python                   1 hr 25 mins        ███████████████░░░░░░░░░░   60.45 % 
+Java                     40 mins             ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+XML                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 52 mins        ████████████████████░░░░░   79.99 % 
+IntelliJ IDEA            28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -36,5 +40,5 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 25/09/2025 16:01:25 UTC
+ Last Updated on 25/09/2025 16:18:30 UTC
 <!--END_SECTION:waka-->
