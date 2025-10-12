@@ -2,7 +2,7 @@
 # here is an introdution to myself   
 but now it's empty()
 * status:    
-[![我的 GitHub status](https://github-readme-stats.vercel.app/api?username=LMXsecound&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![我的 GitHub status](https://github-readme-stats.vercel.app/api?username=Dan5N&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2045%20mins-blue)
 
