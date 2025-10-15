@@ -4,7 +4,7 @@ but now it's empty()
 * status:    
 [![我的 GitHub status](https://github-readme-stats.vercel.app/api?username=Dan5N&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
@@ -14,11 +14,11 @@ but now it's empty()
 
 > 📦 25.8 kB Used in GitHub's Storage 
  > 
-> 🏆 45 Contributions in the Year 2025
+> 🏆 46 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -26,18 +26,18 @@ but now it's empty()
 
 ```text
 💬 Programming Languages: 
-Java                     44 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Markdown                 42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-Python                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Text                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Java                     44 mins             ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+Markdown                 42 mins             ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+Text                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 🔥 Editors: 
-VS Code                  1 hr 50 mins        ███████████████░░░░░░░░░░   59.08 % 
-IntelliJ IDEA            1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   40.92 % 
+IntelliJ IDEA            1 hr 16 mins        █████████████░░░░░░░░░░░░   50.90 % 
+VS Code                  1 hr 13 mins        ████████████░░░░░░░░░░░░░   49.10 % 
 
 💻 Operating System: 
-Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -53,5 +53,5 @@ TypeScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 14/10/2025 09:14:24 UTC
+ Last Updated on 15/10/2025 09:14:25 UTC
 <!--END_SECTION:waka-->
