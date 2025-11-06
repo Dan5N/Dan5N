@@ -4,9 +4,9 @@ but now it's empty()
 * status:    
 [![我的 GitHub status](https://github-readme-stats.vercel.app/api?username=Dan5N&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.1%20thousand%20lines%20of%20code-blue)
 
@@ -26,14 +26,16 @@ but now it's empty()
 
 ```text
 💬 Programming Languages: 
-Java                     14 mins             █████████████████████████   98.91 % 
-CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Python                   1 hr 50 mins        ██████████████████████░░░   88.34 % 
+Java                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-IntelliJ IDEA            14 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 50 mins        ██████████████████████░░░   88.34 % 
+IntelliJ IDEA            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -49,5 +51,5 @@ TypeScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 05/11/2025 09:15:21 UTC
+ Last Updated on 06/11/2025 09:15:09 UTC
 <!--END_SECTION:waka-->
