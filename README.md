@@ -4,7 +4,7 @@ but now it's empty()
 * status:    
 [![我的 GitHub status](https://github-readme-stats.vercel.app/api?username=Dan5N&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -12,7 +12,7 @@ but now it's empty()
 
 **🐱 My GitHub Data** 
 
-> 📦 27.0 kB Used in GitHub's Storage 
+> 📦 30.0 kB Used in GitHub's Storage 
  > 
 > 🏆 55 Contributions in the Year 2025
  > 
@@ -26,18 +26,18 @@ but now it's empty()
 
 ```text
 💬 Programming Languages: 
-TeX                      8 hrs 37 mins       █████████████████░░░░░░░░   66.58 % 
-Java                     3 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+TeX                      8 hrs 37 mins       ███████████████░░░░░░░░░░   59.55 % 
+Java                     3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Python                   1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 4 mins       ███████████████████████░░   93.23 % 
-IntelliJ IDEA            52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+VS Code                  13 hrs 36 mins      ███████████████████████░░   93.94 % 
+IntelliJ IDEA            52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 💻 Operating System: 
-Windows                  12 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -53,5 +53,5 @@ TypeScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 18/11/2025 09:15:32 UTC
+ Last Updated on 19/11/2025 09:15:21 UTC
 <!--END_SECTION:waka-->
