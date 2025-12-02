@@ -4,23 +4,23 @@ but now it's empty()
 * status:    
 [![我的 GitHub status](https://github-readme-stats.vercel.app/api?username=Dan5N&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 30.0 kB Used in GitHub's Storage 
+> 📦 31.1 kB Used in GitHub's Storage 
  > 
-> 🏆 56 Contributions in the Year 2025
+> 🏆 76 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -41,18 +41,18 @@ Windows                  2 hrs 1 min         ███████████�
 Linux                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in HTML** 
 
 ```text
-Java                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Java                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
 
 
- Last Updated on 01/12/2025 09:20:47 UTC
+ Last Updated on 02/12/2025 09:19:21 UTC
 <!--END_SECTION:waka-->
