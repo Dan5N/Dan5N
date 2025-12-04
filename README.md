@@ -4,7 +4,7 @@ but now it's empty()
 * status:    
 [![我的 GitHub status](https://github-readme-stats.vercel.app/api?username=Dan5N&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -22,6 +22,24 @@ but now it's empty()
  > 
 > 🔑 4 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 2 hrs 12 mins       █████████████░░░░░░░░░░░░   52.58 % 
+Python                   51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+YAML                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 12 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  4 hrs               ████████████████████████░   95.18 % 
+Linux                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -35,5 +53,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 03/12/2025 09:17:56 UTC
+ Last Updated on 04/12/2025 09:18:01 UTC
 <!--END_SECTION:waka-->
