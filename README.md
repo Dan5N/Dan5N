@@ -8,13 +8,13 @@ but now it's empty()
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.55%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.90%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 31.1 kB Used in GitHub's Storage 
+> 📦 31.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 10 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,18 +26,15 @@ but now it's empty()
 
 ```text
 💬 Programming Languages: 
-Python                   17 mins             ███████████████░░░░░░░░░░   58.14 % 
-Java                     7 mins              ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-C++                      4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   2 hrs 9 mins        ███████████████████████░░   93.59 % 
+C++                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔥 Editors: 
-VS Code                  21 mins             ██████████████████░░░░░░░   73.05 % 
-IntelliJ IDEA            8 mins              ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -53,5 +50,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 14/01/2026 09:22:16 UTC
+ Last Updated on 15/01/2026 09:21:08 UTC
 <!--END_SECTION:waka-->
