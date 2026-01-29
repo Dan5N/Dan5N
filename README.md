@@ -4,7 +4,7 @@ but now it's empty()
 * status:    
 [![我的 GitHub status](https://github-readme-stats.vercel.app/api?username=Dan5N&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -26,18 +26,14 @@ but now it's empty()
 
 ```text
 💬 Programming Languages: 
-Bash                     30 mins             ████████░░░░░░░░░░░░░░░░░   32.42 % 
-SSH Config               26 mins             ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Git Config               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Vue.js                   19 mins             █████████████████░░░░░░░░   68.75 % 
+Python                   8 mins              ████████░░░░░░░░░░░░░░░░░   31.25 % 
 
 🔥 Editors: 
-VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
+VS Code                  27 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 14 mins        ████████████████████░░░░░   80.22 % 
-Windows                  18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -53,5 +49,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 28/01/2026 09:27:34 UTC
+ Last Updated on 29/01/2026 09:34:24 UTC
 <!--END_SECTION:waka-->
