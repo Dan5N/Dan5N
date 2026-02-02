@@ -4,6 +4,8 @@ but now it's empty()
 * status:    
 [![我的 GitHub status](https://github-readme-stats.vercel.app/api?username=Dan5N&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2057%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.90%20thousand%20lines%20of%20code-blue?style=flat)
@@ -24,17 +26,17 @@ but now it's empty()
 
 ```text
 💬 Programming Languages: 
-TeX                      2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.81 % 
-Python                   1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   34.42 % 
-Vue.js                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Python                   4 hrs 38 mins       ██████████████░░░░░░░░░░░   54.64 % 
+TeX                      2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+Vue.js                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -50,5 +52,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 09:23:01 UTC
+ Last Updated on 02/02/2026 09:38:20 UTC
 <!--END_SECTION:waka-->
