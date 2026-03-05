@@ -22,11 +22,8 @@ but now it's empty(
 🔥 Editors: 
 IntelliJ IDEA            31 mins             ██████████████░░░░░░░░░░░   54.46 % 
 VS Code                  26 mins             ███████████░░░░░░░░░░░░░░   45.54 % 
-
-💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/03/2026 12:14:18 UTC
+ Last Updated on 05/03/2026 12:16:48 UTC
 <!--END_SECTION:waka-->
