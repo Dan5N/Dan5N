@@ -41,10 +41,10 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 
 ```text
 🔥 Editors: 
-VS Code                  21 mins             ████████████████████████░   94.56 % 
-Antigravity              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+VS Code                  43 mins             ████████████████████████░   97.18 % 
+Antigravity              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 
- Last Updated on 03/05/2026 09:59:20 UTC
+ Last Updated on 04/05/2026 10:57:56 UTC
 <!--END_SECTION:waka-->
