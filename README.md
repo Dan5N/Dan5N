@@ -33,17 +33,16 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2034%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 2 mins        ████████████████████████░   94.51 % 
+Codex CLI                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 ```
 
 
- Last Updated on 23/07/2026 11:01:32 UTC
+ Last Updated on 24/07/2026 10:54:52 UTC
 <!--END_SECTION:waka-->
