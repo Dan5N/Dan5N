@@ -33,7 +33,9 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -41,10 +43,32 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 
 ```text
 🔥 Editors: 
-VS Code                  2 hrs 55 mins       ████████████████████████░   96.11 % 
-Codex CLI                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+VS Code                  3 hrs 8 mins        ████████████████████████░   96.37 % 
+Codex CLI                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 55 mins (28.37%)
+
+✍️ 0 lines written by AI, 475 lines written by hand (0.0% AI-written)
+
+🔤 26,919 Input Tokens, 368 Output Tokens
+
+💵 $0.09 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 10 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 41 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 12:12:34 UTC
+ Last Updated on 28/07/2026 11:09:53 UTC
 <!--END_SECTION:waka-->
