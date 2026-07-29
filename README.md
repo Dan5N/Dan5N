@@ -33,9 +33,9 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -43,32 +43,33 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 
 ```text
 🔥 Editors: 
-VS Code                  3 hrs 8 mins        ████████████████████████░   96.37 % 
-Codex CLI                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+VS Code                  5 hrs 29 mins       ████████████████████████░   97.89 % 
+Codex CLI                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 mins (28.37%)
+⏱ AI Coding Time: 2 hrs 13 mins (39.74%)
 
-✍️ 0 lines written by AI, 475 lines written by hand (0.0% AI-written)
+✍️ 129 lines written by AI, 483 lines written by hand (21.08% AI-written)
 
-🔤 26,919 Input Tokens, 368 Output Tokens
+🔤 1,434,739 Input Tokens, 13,702 Output Tokens
 
-💵 $0.09 Estimated AI Cost This Week
+💵 $7.53 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 10 AI Prompts
+🧠 9 AI Sessions, 19 AI Prompts
 
+GPT                      129 lines           █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 41 characters per prompt
+🧑‍💻 Mostly Hands-On — 21.08% of written lines came from AI
+📝 Concise Prompter — average 106 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 80.42% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 11:09:53 UTC
+ Last Updated on 29/07/2026 11:14:51 UTC
 <!--END_SECTION:waka-->
