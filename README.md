@@ -33,7 +33,7 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2058%20mins-blue?style=flat)
 
@@ -43,33 +43,33 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 
 ```text
 🔥 Editors: 
-VS Code                  7 hrs 52 mins       █████████████████████████   98.52 % 
-Codex CLI                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+VS Code                  8 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 35 mins (45.03%)
+⏱ AI Coding Time: 3 hrs 39 mins (45.25%)
 
-✍️ 688 lines written by AI, 492 lines written by hand (58.31% AI-written)
+✍️ 853 lines written by AI, 380 lines written by hand (69.18% AI-written)
 
-🔤 1,461,859 Input Tokens, 13,831 Output Tokens
+🔤 5,688,863 Input Tokens, 54,484 Output Tokens
 
-💵 $7.61 Estimated AI Cost This Week
+💵 $8.83 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 41 AI Prompts
+🧠 13 AI Sessions, 43 AI Prompts
 
 Github-Copilot           559 lines           ████████████████████░░░░░   81.25 % 
 GPT                      129 lines           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 58.31% of written lines came from AI
-📝 Concise Prompter — average 56 characters per prompt
+🤖 AI-Driven — 69.18% of written lines came from AI
+📄 Detailed Prompter — average 1,222 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 46.08% of changed lines were hand-edited
+🚀 High AI Trust — 35.38% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/07/2026 10:59:07 UTC
+ Last Updated on 31/07/2026 11:22:19 UTC
 <!--END_SECTION:waka-->
