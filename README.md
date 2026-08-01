@@ -33,9 +33,9 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -43,33 +43,34 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 
 ```text
 🔥 Editors: 
-VS Code                  8 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 39 mins (45.25%)
+⏱ AI Coding Time: 3 hrs 50 mins (49.28%)
 
-✍️ 853 lines written by AI, 380 lines written by hand (69.18% AI-written)
+✍️ 853 lines written by AI, 66 lines written by hand (92.82% AI-written)
 
-🔤 5,688,863 Input Tokens, 54,484 Output Tokens
+🔤 5,750,271 Input Tokens, 55,463 Output Tokens
 
-💵 $8.83 Estimated AI Cost This Week
+💵 $9.03 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 43 AI Prompts
+🧠 15 AI Sessions, 51 AI Prompts
 
 Github-Copilot           559 lines           ████████████████████░░░░░   81.25 % 
 GPT                      129 lines           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.18% of written lines came from AI
-📄 Detailed Prompter — average 1,222 characters per prompt
+🤖 AI-Driven — 92.82% of written lines came from AI
+📄 Detailed Prompter — average 1,100 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 35.38% of changed lines were hand-edited
+🚀 High AI Trust — 14.96% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/07/2026 11:22:19 UTC
+ Last Updated on 01/08/2026 10:27:11 UTC
 <!--END_SECTION:waka-->
