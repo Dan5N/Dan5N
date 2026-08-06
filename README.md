@@ -33,9 +33,9 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
@@ -43,35 +43,35 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 
 ```text
 🔥 Editors: 
-VS Code                  18 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 8 mins (76.96%)
+⏱ AI Coding Time: 13 hrs 37 mins (68.62%)
 
-✍️ 7,682 lines written by AI, 33 lines written by hand (99.57% AI-written)
+✍️ 8,485 lines written by AI, 492 lines written by hand (94.52% AI-written)
 
-🔤 8,953,813 Input Tokens, 169,371 Output Tokens
+🔤 9,275,879 Input Tokens, 170,338 Output Tokens
 
-💵 $43.84 Estimated AI Cost This Week
+💵 $44.82 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 173 AI Prompts
+🧠 26 AI Sessions, 164 AI Prompts
 
-Github-Copilot           5,790 lines         ███████████████████░░░░░░   74.85 % 
-Mimo                     1,814 lines         ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-GPT                      131 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Github-Copilot           6,593 lines         ███████████████████░░░░░░   77.22 % 
+Mimo                     1,814 lines         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+GPT                      131 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.57% of written lines came from AI
-📄 Detailed Prompter — average 1,430 characters per prompt
+🤖 AI-Driven — 94.52% of written lines came from AI
+📚 Verbose Prompter — average 1,509 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.21% of changed lines were hand-edited
+🚀 High AI Trust — 11.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/08/2026 11:12:00 UTC
+ Last Updated on 06/08/2026 11:12:28 UTC
 <!--END_SECTION:waka-->
