@@ -33,9 +33,7 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2014%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
@@ -43,35 +41,9 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 
 ```text
 🔥 Editors: 
-VS Code                  19 hrs 55 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 hrs 38 mins (63.49%)
-
-✍️ 8,686 lines written by AI, 645 lines written by hand (93.09% AI-written)
-
-🔤 2,789,375 Input Tokens, 126,065 Output Tokens
-
-💵 $9.41 Estimated AI Cost This Week
-
-🧠 22 AI Sessions, 149 AI Prompts
-
-Github-Copilot           6,925 lines         ████████████████████░░░░░   79.24 % 
-Mimo                     1,814 lines         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 93.09% of written lines came from AI
-📚 Verbose Prompter — average 1,624 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 12.75% of changed lines were hand-edited
+VS Code                  16 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/08/2026 10:08:56 UTC
+ Last Updated on 11/08/2026 07:19:34 UTC
 <!--END_SECTION:waka-->
