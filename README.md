@@ -33,7 +33,7 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue?style=flat)
 
@@ -41,10 +41,10 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 
 ```text
 🔥 Editors: 
-VS Code                  6 hrs 6 mins        ██████████████████████░░░   89.51 % 
-Codex Vscode             43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+VS Code                  2 hrs 59 mins       ████████████████████░░░░░   80.19 % 
+Codex Vscode             44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
 ```
 
 
- Last Updated on 18/08/2026 09:23:10 UTC
+ Last Updated on 19/08/2026 09:24:05 UTC
 <!--END_SECTION:waka-->
