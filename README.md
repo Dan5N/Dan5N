@@ -41,9 +41,10 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 
 ```text
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 33 mins       ████████████████████████░   95.81 % 
+Codex Vscode             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
 
 
- Last Updated on 07/09/2026 14:37:35 UTC
+ Last Updated on 08/09/2026 13:11:17 UTC
 <!--END_SECTION:waka-->
