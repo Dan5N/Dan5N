@@ -9,42 +9,34 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 
 </div>
 <h3 align="left">Languages and Tools:</h3>
-<table>
-  <tr>
-    <td><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a></td>
-    <td><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a></td>
-    <td><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/></a></td>
-    <td><a href="https://www.nvidia.com/en-us/geforce/technologies/cuda/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cuda" alt="cuda" width="40" height="40"/></a></td>
-    <td><a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a></td>
-    <td><a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/></a></td>
-    <td><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a></td>
-    <td><a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a></td>
-    <td><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></a></td>
-    <td><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a></td>
-    <td><a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=astro" alt="astro" width="40" height="40"/></a></td>
-    <td><a href="https://gohugo.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=hugo" alt="hugo" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a></td>
-    <td><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/></a></td>
-    <td><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40" height="40"/></a></td>
-    <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a></td>
-    <td><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a></td>
-    <td><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/></a></td>
-    <td><a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a></td>
-    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a></td>
-    <td><a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" alt="github actions" width="40" height="40"/></a></td>
-    <td><a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a></td>
-    <td><a href="https://faiss.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FAISS-Vector%20Search-555555?style=flat-square" alt="faiss" height="40"/></a></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40" /></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40" /></a>
+  <a href="https://www.nvidia.com/en-us/geforce/technologies/cuda/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cuda" alt="cuda" width="40" height="40" /></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" /></a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40" /></a>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=astro" alt="astro" width="40" height="40" /></a>
+  <a href="https://gohugo.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=hugo" alt="hugo" width="40" height="40" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40" /></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40" /></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40" /></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40" /></a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" /></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" alt="github actions" width="40" height="40" /></a>
+  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40" /></a>
+  <a href="https://faiss.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FAISS-Vector%20Search-555555?style=flat-square" alt="faiss" height="40" /></a>
+</div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%205%20mins-blue?style=flat)
