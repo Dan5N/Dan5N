@@ -40,13 +40,4 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 09/11/2026 19:21:45 UTC
 <!--END_SECTION:waka-->
