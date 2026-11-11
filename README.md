@@ -1,5 +1,7 @@
 # Hi there 👋 here is an introdution to myself   
 Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#46;com</a>
+## Research Engineer | Computer Vision & Generative AI
+## Full-Stack
 <div align="center">
  
 ![](https://raw.githubusercontent.com/Dan5N/github-stats/master/generated/overview.svg#gh-dark-mode-only)
