@@ -46,10 +46,11 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 
 ```text
 🔥 Editors: 
-VS Code                  2 hrs 49 mins       █████████████████████████   98.41 % 
-OpenCode                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+VS Code                  1 hr 38 mins        ███████████████████████░░   91.33 % 
+Opencode Cli             6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+OpenCode                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 
 
- Last Updated on 13/11/2026 16:51:48 UTC
+ Last Updated on 14/11/2026 15:25:34 UTC
 <!--END_SECTION:waka-->
