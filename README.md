@@ -38,9 +38,9 @@ Contact me at ：<a href="mailto:3301085697&#64;qq&#46;com">3301085697&#64;qq&#4
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -50,5 +50,5 @@ VS Code                  25 mins             ███████████�
 ```
 
 
- Last Updated on 24/11/2026 19:49:14 UTC
+ Last Updated on 25/11/2026 18:54:35 UTC
 <!--END_SECTION:waka-->
